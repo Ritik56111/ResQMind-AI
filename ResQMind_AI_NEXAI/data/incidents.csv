@@ -1,0 +1,4 @@
+scenario,event_type,injured,blocked,smoke
+Multi-Vehicle Highway Accident,Road accident,7,True,True
+Building Fire,Building fire,4,False,True
+Flooded Road Emergency,Flooded road,2,True,False
